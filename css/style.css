@@ -523,6 +523,7 @@ p a:hover {
 	display: block;
 	font: 13px/24px Arial, Helvetica, sans-serif;
 }
+.message input[type='email'],
 .message input[type='text'] {
 	height: 24px;
 	width: 590px;
@@ -605,4 +606,11 @@ p a:hover {
 }
 #footnote .connect a.pinterest {
 	background-position: 0 -196px;
+}
+
+label.error {
+	margin: 0;
+	padding: 0 0 10px;
+	line-height: 0px;
+	color: red;
 }

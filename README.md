@@ -17,3 +17,5 @@ contact.html
 --------------
 + The G+ icon is a Pinterest icon
 + IE doesn’t show thank you on form submit
++ Clicking on Email label doesn't place focus on the input field.
++ Email validation requires input but doesn't limit to an email format.
